@@ -1,4 +1,4 @@
-hi.
+![](https://komarev.com/ghpvc/?username=kirimikuna&color=red&style=plastic&abbreviated=true)
 
 <!--
 **kirimikuna/kirimikuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
