@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=kirimikuna&color=blue&style=plastic&label=seals&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=kirimikuna&color=blue&style=plastic&label=seals)
 
 
 
